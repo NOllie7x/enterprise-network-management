@@ -31,38 +31,27 @@ Directory（AD）及其相关企业服务**。
 
 ## 二、课程学习成果（Learning Outcomes）
 
-  ------------------------------------------------------------------------------------------
-  编号              原文              中文理解                             对应能力
-  ----------------- ----------------- ------------------------------------ -----------------
-  LO1               Design and        设计和开发企业网络架构解决方案       架构设计
-                    develop solutions                                      
-                    for enterprise                                         
-                    network                                                
-                    architecture                                           
+**LO1 — Design and develop solutions for enterprise network architecture**
 
-  LO2               Construct and     构建并配置小型企业网络               部署与配置
-                    configure                                              
-                    small-scale                                            
-                    enterprise                                             
-                    networks                                               
+- 中文理解：设计和开发企业网络架构解决方案
+- 对应能力：架构设计
 
-  LO3               Analyse and       分析并识别企业网络管理中的潜在问题   问题分析
-                    identify                                               
-                    potential issues                                       
-                    in managing                                            
-                    enterprise                                             
-                    networks                                               
+**LO2 — Construct and configure small-scale enterprise networks**
 
-  LO4               Manage and        管理和维护企业网络基础设施           运维管理
-                    maintain                                               
-                    enterprise                                             
-                    network                                                
-                    infrastructure                                         
-  ------------------------------------------------------------------------------------------
+- 中文理解：构建并配置小型企业网络
+- 对应能力：部署与配置
 
-这四项学习成果并非四门独立课程，而是贯穿各个技术模块的能力要求。例如，设计一个
-RODC 部署方案属于架构选择；配置 RODC
-属于部署配置；判断断网时用户能否登录属于问题分析；持续维护复制和凭据策略则属于运维管理。
+**LO3 — Analyse and identify potential issues in managing enterprise networks**
+
+- 中文理解：分析并识别企业网络管理中的潜在问题
+- 对应能力：问题分析
+
+**LO4 — Manage and maintain enterprise network infrastructure**
+
+- 中文理解：管理和维护企业网络基础设施
+- 对应能力：运维管理
+
+这四项学习成果并非四门独立课程，而是贯穿各个技术模块的能力要求。例如，设计一个 RODC 部署方案属于架构选择；配置 RODC 属于部署配置；判断断网时用户能否登录属于问题分析；持续维护复制和凭据策略则属于运维管理。
 
 ## 三、课程知识体系
 
